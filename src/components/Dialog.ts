@@ -12,8 +12,6 @@ const DIALOGS: ILevelDialog[] = [
 		question: 'Today is something special....so whose birthday it is',
 		answers: ['PUWALI', 'puwali', 'Puwali'],
 		hint: '(?) Uu... wrong guess, name i used to tell',
-		hint: '(?) Uu....You are special, try different one',
-		hint: '(?) Uu try Puwali, may be it accept'
 	},
 	{
 		question:
