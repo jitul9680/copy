@@ -18,25 +18,12 @@ const DIALOGS: ILevelDialog[] = [
 			'Who is the best guy in the world?<br>' +
 			'<span class="dialog-hint">(...he made this game)</span>',
 		answers: [
-			'alex',
-			'alexey',
-			'aleksey',
-			'oleksii',
-			'алекс',
-			'алексей',
-			'леша',
-			'лёша',
-			'лёшенька',
-			'лешенька',
-			'алёша',
-			'alexeychikk',
-			'אלכס',
-			'אלכסיי'
+			'Jitul','jitul','JITUL'
 		],
 		hint: '(?) Come on, just look at the bottom of the screen!'
 	},
 	{
-		question: 'How many gifts do you want for your birthday?',
+		question: 'Kiman ta gift lagibo tuk.......?',
 		answers: [],
 		type: 'number'
 	}
