@@ -9,11 +9,9 @@ export interface ILevelDialog {
 
 const DIALOGS: ILevelDialog[] = [
 	{
-		question: 'Today is something special....so whose birthday it is',
+		question: 'Today is something special....So whose birthday it is',
 		answers: ['PUWALI', 'puwali', 'Puwali','puali','PUALI','Puali'],
-		hint: '(?) Uu... wrong guess, name i used to tell',
-		hint: '(?) Uu....You are special, try different one',
-		hint: '(?) Aree you are my puwali',
+		hint: '(?) Uu... wrong guess, Oi *puali* etia monot poril'
 	},
 	{
 		question:
